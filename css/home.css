@@ -13,7 +13,7 @@ html {
 }
 
 @media (max-width: 1023px) {
-    
+
     .main_nav {
         position: fixed;
         width: 100vw;
@@ -54,18 +54,17 @@ html {
 
     }
 
-    footer {
+    .footer_main {
         display: flex;
         align-items: center;
         justify-content: center;
         width: 100vw;
         height: 15vh;
         background-color: #262626;
-        padding: 20px;
 
         p {
-            font-weight: lighter;
-            font-size: smaller;
+            /* font-weight: lighter; */
+            font-size: 10px;
             color: #ffffff;
         }
 
