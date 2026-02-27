@@ -15,15 +15,15 @@ html {
 @media (max-width: 1023px) {
 
     .main_nav {
-        margin: 20px;
+        margin-left: 60px; 
         border-radius: 18px;
         position: fixed;
-        width: 100vw;
+        width: 80vw;
         height: 8vh;
         background-color: #000000;
         display: flex;
         align-items: center;
-        justify-content: center;
+        justify-content:  center;
         /* background-color: lab(15.204% 0 -.00000596046); */
     }
 
